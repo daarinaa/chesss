@@ -9,6 +9,8 @@
 [Bb]uilds/
 [Uu]serSettings/
 
+#meow
+
 # Visual Studio
 *.suo
 *.user
